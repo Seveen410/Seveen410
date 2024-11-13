@@ -56,7 +56,7 @@ The dataset is split into training and testing sets with an **80/20** ratio usin
     python speech_command_recognition.py
     ```
 
-    - The script will load the dataset, preprocess the audio files, train the CNN model, and evaluate its performance on the test set.
+    - The script will load the dataset, preprocess the audio files, train the model, and evaluate its performance on the test set.
 
 5. **Visualizations**:
     - The training and validation accuracy/loss curves will be displayed as plots.
@@ -78,6 +78,3 @@ The dataset is split into training and testing sets with an **80/20** ratio usin
 - `keras`
 - `tensorflow`
 
-To install the required libraries, you can use the following command to install all dependencies:
-```bash
-pip install -r requirements.txt
