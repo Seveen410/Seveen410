@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-This project aims to classify audio data from the **Google Speech Commands** dataset into predefined spoken commands using Convolutional Neural Networks (CNN). The model is designed to recognize speech commands such as "yes", "no", "up", "down", and more, by analyzing the spectrograms of the audio files.
+This project aims to classify audio data from the **Google Speech Commands** dataset into predefined spoken commands . The model is designed to recognize speech commands such as "yes", "no", "up", "down", and more, by analyzing the spectrograms of the audio files.
 
 ### Objectives:
 - Build a model for audio classification.
